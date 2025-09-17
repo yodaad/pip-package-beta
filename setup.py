@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="pip-package-beta",                              # Package name
-    version="0.1.0",                                      # Initial version
+    version="0.1.1",                                      # Initial version
     packages=find_packages(),                             # Packages to include
     description="A simple greeting pip package",          # Brief description
     author="Diego Arango",                                # Name
