@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
-Name: pip-package-beta
-Version: 0.1.0
+Name: pip_package_beta
+Version: 0.1.1
 Summary: A simple greeting pip package
 Home-page: https://github.com/yodaad/pip-package-beta
 Author: Diego Arango
